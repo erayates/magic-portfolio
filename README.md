@@ -9,6 +9,7 @@
 <h3 align="center">🔧 Tech Stack</h3>
 <h6 align="center">Frontend: Next.js</p>
 <h6 align="center">CMS: Sanity.io</p>
+<h6 align="center">Localization: next-intl</p>
 <h6 align="center">Styling: TailwindCSS, MagicUI</p>
 <hr>
 
