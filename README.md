@@ -5,9 +5,6 @@
 <a href="https://medium.com/@erayatesdev">Medium</a>
 </p>
 <p align="center">magic-portfolio is a portfolio website project that includes different features with multi-language options added with Sanity.io and next-intl, which is a Headless CMS on the MagicUI Portfolio template.</p>
-<p align="center">
-  <a href="https://www.figma.com/file/CKpbJJH3d8bSn5dy4XCmUA/Transport-and-Logistics-Webflow-Website-Template-(Community)">Figma Design</a>
-</p>
 <hr>
 <h3 align="center">🔧 Tech Stack</h3>
 <h6 align="center">Frontend: Next.js</p>
