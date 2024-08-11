@@ -1,47 +1,23 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+<h2 align="center">Magic Portfolio</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/eraayatees/">LinkedIn</a>
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+<a href="https://medium.com/@erayatesdev">Medium</a>
+</p>
+<p align="center">magic-portfolio is a portfolio website project that includes different features with multi-language options added with Sanity.io and next-intl, which is a Headless CMS on the MagicUI Portfolio template.</p>
+<p align="center">
+  <a href="https://www.figma.com/file/CKpbJJH3d8bSn5dy4XCmUA/Transport-and-Logistics-Webflow-Website-Template-(Community)">Figma Design</a>
+</p>
+<hr>
+<h3 align="center">🔧 Tech Stack</h3>
+<h6 align="center">Frontend: Next.js</p>
+<h6 align="center">CMS: Sanity.io</p>
+<h6 align="center">Styling: TailwindCSS, MagicUI</p>
+<hr>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
-
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
-
-# Features
-
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
-
-# Getting Started Locally
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
-
-2. Move to the cloned directory
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   pnpm dev
-   ```
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+<h3 align="center">⏺️ Live Demo</h3>
+<p align="center"><a target="_blank" href="https://eates.vercel.app">Magic Portfolio</a></p>
+<hr>
+<h3 align="center">📷 Screenshoots</p>
+<h5 align="center">You can find out more by logging into the site in the demo.</h5>
+<img src="https://github.com/user-attachments/assets/117a86bd-87cf-4a2f-b695-2b53986b1156" align="center" />
