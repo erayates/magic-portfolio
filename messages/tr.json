@@ -1,0 +1,37 @@
+{
+  "Hero": {
+    "title": "Merhaba, Ben {firstName} 👋",
+    "description": "Web Geliştiricisi. Bir şeyler inşa etmeyi ve insanlara yardım etmeyi seviyorum."
+  },
+  "About": {
+    "title": "Hakkımda"
+  },
+
+  "WorkExp": {
+    "title": "İş Deneyimi"
+  },
+
+  "Education": {
+    "title": "Eğitim"
+  },
+
+  "Projects": {
+    "label": "Projelerim",
+    "title": "Son çalışmalarıma göz atın!",
+    "description": "Basit web sitelerinden karmaşık web uygulamalarına kadar geniş bir yelpazede projeler üzerinde çalıştım. İşte favori projelerimden bazıları",
+    "button": "Tüm Projeleri Gör"
+  },
+
+  "Certificates": {
+    "label": "Sertifikalar",
+    "title": "Yeni şeyler öğrenmek",
+    "description": "Yazılım öğrenme ve üniversite sürecim boyunca kullandığım teknolojileri geliştirmek ve yeni teknojiler öğrenmek amacıyla farklı kurslara katıldım. Bunlara ait bazı sertifikalarımı buraya ekledim.",
+    "button": "Tüm Sertifikalarımı Gör"
+  },
+
+  "Contact": {
+    "label": "İletişim",
+    "title": "İletişime Geçin",
+    "description": "Benimle çalışmak isterseniz veya projelerim hakkında sorularınız varsa, lütfen çekinmeden iletişime geçin. Size yardımcı olmaktan memnuniyet duyarım."
+  }
+}

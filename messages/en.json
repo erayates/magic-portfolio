@@ -1,0 +1,39 @@
+{
+  "Hero": {
+    "title": "Hi, I'm {firstName} 👋",
+    "description": "Web Developer. I love building things and helping people."
+  },
+
+  "About": {
+    "title": "About",
+    "description": "Graduated from Cukurova University with a Bachelor of Science degree in Computer Engineering, I have a solid foundation in both theoretical and practical aspects of software development. My technical stack includes expertise in Next.js, TypeScript, JavaScript, Node.js, and PHP. With nearly two years of consistent coding experience, I have honed my skills in frontend development. Currently, I am a part-time frontend developer, leveraging my knowledge and expertise to build dynamic and responsive web applications. Additionally, I had the opportunity to broaden my academic and cultural horizons by studying for one semester in Poland, pursuing a Computer Science degree."
+  },
+
+  "WorkExp": {
+    "title": "Work Experience"
+  },
+
+  "Education": {
+    "title": "Education"
+  },
+
+  "Projects": {
+    "label": "My Projects",
+    "title": "Check out my latest work",
+    "description": "I've worked on a wide range of projects, from simple websites to complex web applications. Here are a few of my favourites.",
+    "button": "See All Projects"
+  },
+
+  "Certificates": {
+    "label": "Certificates",
+    "title": "I like learning new things",
+    "description": "I have attended different courses in order to improve the technologies I use and learn new technologies during my software learning and university process. I have attached some of my certificates of these here.",
+    "button": "See All Certificates"
+  },
+
+  "Contact": {
+    "label": "Contact",
+    "title": "Get in Touch",
+    "description": "If you're interested in working with me or if you have any questions about my projects, feel free to reach out. I'd be more than happy to help."
+  }
+}
